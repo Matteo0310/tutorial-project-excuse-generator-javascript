@@ -1,0 +1,10 @@
+.Layout {background-color: rgb(0, 9, 53);
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 600px ;
+    height: 200px;
+    margin: auto;
+    text-align: center;}
+
+    h1 { color: rgb(255, 255, 255);}
+    h2 { color: rgb(255, 255, 255);}
